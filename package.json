@@ -1,0 +1,24 @@
+{
+  "name": "nextJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@skynexui/responsive_stylesheet": "^1.11.0",
+    "@types/styled-components": "^5.1.34",
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.7",
+    "@types/react": "18.2.47",
+    "typescript": "5.3.3"
+  }
+}
